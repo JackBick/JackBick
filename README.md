@@ -1,5 +1,5 @@
 - I’m Jack Bickersteth
-- In my third year of university
+- In my fourth year of university
 - Currently the page contains projects I've worked on at university
 - Looking for an internship
 - Contact jackbickersteth@outlook.com
