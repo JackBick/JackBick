@@ -1,7 +1,6 @@
 - I’m Jack Bickersteth
-- In my fourth year of university
-- Currently the page contains projects I've worked on at university
-- Looking for an internship
+- Currently the page contains interesting projects I've worked on either alone or as a group project
+- Looking for a graduate job
 - Contact jackbickersteth@outlook.com
 
 <!---
